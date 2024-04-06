@@ -4,7 +4,7 @@ class DBGestionLibreria {
 
 
     private $servidor = 'localhost'; /*Este servidor debemos cambiarlo una vez lo subamos a un host*/ 
-    private $dataBase = 'db_libreria';
+    private $dataBase = 'db_libreria';  /* Los datos reales del servidor, database, usuario y contraseña estan ocultos para protexion de copy right */
     private $user = 'root';
     private $password = '';
 
